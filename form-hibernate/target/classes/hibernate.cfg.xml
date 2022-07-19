@@ -15,15 +15,5 @@
         <mapping class="com.exemple.entities.Personne" />
         <mapping class="com.exemple.entities.Enseignant" />
         <mapping class="com.exemple.entities.Sport" />
-<!--         <mapping class="projetfilrouge.Client" /> -->
-<!--         <mapping class="projetfilrouge.User" /> -->
-<!--         <mapping class="projetfilrouge.Entreprise" /> -->
-<!--         <mapping class="projetfilrouge." /> -->
-<!--         <mapping class="projetfilrouge." /> -->
-<!--         <mapping class="projetfilrouge." /> -->
-<!--         <mapping class="projetfilrouge." /> -->
-<!--         <mapping class="projetfilrouge." /> -->
-<!--         <mapping class="projetfilrouge." /> -->
-<!--         <mapping class="projetfilrouge." /> -->
     </session-factory>
 </hibernate-configuration>
